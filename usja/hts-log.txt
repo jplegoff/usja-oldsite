@@ -1,0 +1,27 @@
+HTTrack3.48-22 launched on Tue, 31 Jan 2017 17:12:25 at www.carquefou-football.com
+(winhttrack www.carquefou-football.com -O "/Users/jean-philippelegoff/websites/usja" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:12:26	Warning: 	Note: due to www.carquefou-football.com remote robots.txt rules, links beginning with these path will be forbidden: /administrator/, /cache/, /components/, /images/, /includes/, /installation/, /language/, /libraries/, /media/, /modules/, /plugins/, /templates/, /tmp/, /xmlrpc/ (see in the options to disable this)
+17:13:34	Warning: 	See other for www.carquefou-football.com/component/jce/?view=popup&tmpl=component
+17:13:34	Warning: 	File has moved from www.carquefou-football.com/component/jce/?view=popup&tmpl=component to http://www.carquefou-football.com/index.php
+17:23:12	Error: 	"Composant non trouvé" (404) at link www.carquefou-football.com/ajax/hovercard/page.php?id=529123930476459 (from www.carquefou-football.com/le-club/actualites/1269-dh-coupe-atlantique.html)
+17:29:36	Error: 	"Composant non trouvé" (404) at link www.carquefou-football.com/details/31-CFA-contre-La-Vitreenne.html (from www.carquefou-football.com/le-club/actualites/178-cfa-yzeure-carquefou-1-1.html)
+17:29:36	Error: 	"Article #242 introuvable" (404) at link www.carquefou-football.com/tournoi/242-tournoi-week-end-de-paques.html (from www.carquefou-football.com/le-club/actualites.html?start=580)
+17:31:36	Warning: 	Retry after error 500 (Internal Server Error) at link www.carquefou-football.com/component/content/39-classement-et-resultats/591-classement-et-resultats-saison-2012-13.html (from www.carquefou-football.com/le-club/actualites/858-national-carquefou-amiens-1-1.html)
+17:31:39	Error: 	"Article #119 introuvable" (404) at link www.carquefou-football.com/stages/119-les-stages-vacances.html (from www.carquefou-football.com/le-club/actualites.html?start=560)
+17:31:40	Warning: 	Retry after error 500 () at link www.carquefou-football.com/component/content/39-classement-et-resultats/591-classement-et-resultats-saison-2012-13.html (from www.carquefou-football.com/le-club/actualites/858-national-carquefou-amiens-1-1.html)
+17:31:40	Error: 	"Article #577 introuvable" (404) at link www.carquefou-football.com/le-club/actualites/577-coordonnees-benoit-durand.html (from www.carquefou-football.com/le-club/actualites/576-recrutement-2012-2013.html)
+17:31:40	Error: 	"Catégorie de l'article non publiée" (404) at link www.carquefou-football.com/le-club/actualites/578-coordonnees-pierrick-margat.html (from www.carquefou-football.com/le-club/actualites/576-recrutement-2012-2013.html)
+17:31:40	Error: 	"Catégorie de l'article non publiée" (404) at link www.carquefou-football.com/le-club/actualites/579-coordonnees-julien-grandjean.html (from www.carquefou-football.com/le-club/actualites/576-recrutement-2012-2013.html)
+17:31:40	Error: 	"Article #580 introuvable" (404) at link www.carquefou-football.com/le-club/actualites/580-coordonnees-ronan-bureau.html (from www.carquefou-football.com/le-club/actualites/576-recrutement-2012-2013.html)
+17:31:40	Error: 	"Article #581 introuvable" (404) at link www.carquefou-football.com/le-club/actualites/581-coordonnees-nour-eddin-merzougui.html (from www.carquefou-football.com/le-club/actualites/576-recrutement-2012-2013.html)
+17:31:40	Error: 	"Composant non trouvé" (404) at link www.carquefou-football.com/Tournoi/Tournois/ (from www.carquefou-football.com/le-club/actualites/285-tournoi-u13-u11-u9.html)
+17:31:41	Error: 	"" (500) after 2 retries at link www.carquefou-football.com/component/content/39-classement-et-resultats/591-classement-et-resultats-saison-2012-13.html (from www.carquefou-football.com/le-club/actualites/858-national-carquefou-amiens-1-1.html)
+
+HTTrack Website Copier/3.48-22 mirror complete in 19 minutes 16 seconds : 629 links scanned, 614 files written (30819599 bytes overall) [31133321 bytes received at 26931 bytes/sec], 1.4 requests per connection
+(11 errors, 5 warnings, 0 messages)

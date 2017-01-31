@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.carquefou-football.com	TRUE	/	FALSE	1999999999	7a060d34d68eb76864981c07bace3bed	3a32e4fddc4b90cd55b8c2463a04b6c4
+
